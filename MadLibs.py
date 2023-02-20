@@ -63,3 +63,5 @@ button_clear = Button(text='Clear', command=clear)
 screen.create_window(250, 170, window=button_clear)
 
 window.mainloop()
+
+# código feito por Idinaldo
